@@ -14,7 +14,7 @@ function App() {
           <Container>
             <h1>Ecommerce App</h1>
             <Routes>
-              <Route path="/" element={<Home />} git commit -m "first commit"/>
+              <Route path="/" element={<Home />} />
             </Routes>
           </Container>
         </main>
