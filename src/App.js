@@ -8,8 +8,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App() {
   return (
     <>
-      <Header />
       <BrowserRouter>
+        <Header />
         <main className="my-3">
           <Container>
             <h1>Ecommerce App</h1>
